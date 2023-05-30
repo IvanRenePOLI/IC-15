@@ -7,7 +7,7 @@
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
-  background: #FFF;
+  background: #cc3737;
 }
 
 #page-wrapper {
@@ -15,7 +15,7 @@ html {
   background: #FFF;
   padding: 1em;
   margin: 1em auto;
-  border-top: 5px solid #1F7EAC;
+  border-top: 5px solid #ac1f8e;
   box-shadow: 0 2px 10px rgba(0,0,0,0.8);
 }
 
@@ -64,10 +64,10 @@ ul li span {
 }
 
 .sent {
-  background-color: #F7F7F7;
+  background-color: #c23333;
 }
 
-.received {}
+/*.received {}*/
 
 #message-form {
   margin-top: 1.5rem;
