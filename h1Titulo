@@ -1,0 +1,10 @@
+h1 {
+	margen superior: 0;
+}
+
+#estado {
+  tamaño de fuente: 1,9 rem;
+  margen inferior: 1 rem;
+  color rojo;
+
+}
